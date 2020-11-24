@@ -1,4 +1,4 @@
 # MiniCore
 Author = ArdaDmrkn
 
-Minecraft Bedrock Nukkit sunucuları için MiniCore
+Minecraft Bedrock Nukkit sunucuları için MiniCore eklentisi
